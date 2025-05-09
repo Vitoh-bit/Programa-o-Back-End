@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula05Repeticao",
+            "request": "launch",
+            "mainClass": "com.mycompany.Aula05Repeticao",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "DescontoProduto",
+            "request": "launch",
+            "mainClass": "com.mycompany.Avaliacao4.DescontoProduto",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ReajusteProduto",
+            "request": "launch",
+            "mainClass": "com.mycompany.Avaliacao3.ReajusteProduto",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "AreaCirculo",
+            "request": "launch",
+            "mainClass": "com.mycompany.Avaliacao2.AreaCirculo",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "MediaIdadeFamilia",
+            "request": "launch",
+            "mainClass": "com.mycompany.Avaliação.MediaIdadeFamilia",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "MediaIdadeFamilia",
+            "request": "launch",
+            "mainClass": "com.mycompany.MediaIdadeFamilia",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Aula01Variaveis",
+            "request": "launch",
+            "mainClass": "com.mycompany.Aula01Variaveis",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Aula03Operadores",
+            "request": "launch",
+            "mainClass": "com.mycompany.Aula03Operadores",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
